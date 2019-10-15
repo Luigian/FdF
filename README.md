@@ -8,7 +8,8 @@ In this project we created a program called `fillit` wich allow you to take as a
 ![](resources/images/fillit_flowchart.png)
 
 ### Input:
-![](resources/images/fdf_input.png/200)
+<img src="resources/images/fdf_input.png" width="400" height="350">
+![](resources/images/fdf_input.png)
 
 ### Output:
 ![](resources/images/fdf_output.png)
