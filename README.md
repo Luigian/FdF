@@ -11,7 +11,7 @@ In this project we created a program called `fillit` wich allow you to take as a
 <img src="resources/images/fdf_input.png" width="500">
 
 ### Output:
-![](resources/images/fdf_output.png)
+<img src="resources/images/fdf_output.png" width="900">
 
 ### Key points:
 
