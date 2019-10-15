@@ -2,7 +2,9 @@
 
 # FdF
 
-In this project we created a program called `fillit` wich allow you to take as a parameter a file wich contains a list from 1 to 26 pieces of tetriminos and display, on the standard output, all of them assembled together in the smallest possible square, assigning a capital letter to each tetrimino, starting with ’A’. The main goal is to find the smallest square in the minimal amount of time, despite an exponentially growing number of possibilities each time a piece is added.
+This project was my first approach to the basics of graphic programming, i learned how to place points in space, how to join them with segments and how to observe the scene from a particular viewpoint. I worked with the miniLibX graphic library to open a window, light a pixel and deal with mouse and keyboard events.
+
+One of the most interesting parts, in my opinion, is to deal with the calculation of gradients in the lines, which helped me to better understand the way in which the color is encoded in its the three channels and the proper manipulation of these.
 
 ### Flowchart:
 ![](resources/images/fillit_flowchart.png)
@@ -19,16 +21,16 @@ In this project we created a program called `fillit` wich allow you to take as a
 * Recursion, backtracking.
 
 ### Objectives:
-
-* Basic algorithm. 
-* Entries / exits.
+* Simple graphic library
+* Segment layout
+* Events
+* 3D projection to 2D
 
 ### Skills:
- 
-* Algorithms & AI.
-* Rigor.
-* Unix.
-* Group & interpersonal
+* Graphics
+* Imperative programming
+* Algorithms & AI
+* Rigor 
 
 ### Compilation:
 
