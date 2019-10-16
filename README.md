@@ -47,6 +47,5 @@ One of the most interesting parts, in my opinion, is to deal with the calculatio
 
 ## Author:
 
-* [*Luis Julian sanchez Quiros*](https://www.linkedin.com/in/luis-juli%C3%A1n-s%C3%A1nchez-quir%C3%B3s-13bb3b189/)
-Luis Sanchez Quiros.
+[*Luis Julian Sanchez Quiros*](https://www.linkedin.com/in/luis-juli%C3%A1n-s%C3%A1nchez-quir%C3%B3s-13bb3b189/)
 2019. Freemont, CA
