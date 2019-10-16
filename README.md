@@ -13,7 +13,7 @@ One of the most interesting parts, in my opinion, is to deal with the calculatio
 <img src="resources/images/fdf_input.png" width="500">
 
 ## Output:
-<img src="resources/images/fdf_output.png" width="1200">
+<img src="resources/images/fdf_output.png" width="1000">
 
 ## Key points:
 
