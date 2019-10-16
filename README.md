@@ -1,4 +1,4 @@
-<img src="resources/images/fdf_banner.png" width="500">
+<img src="resources/images/fdf_banner.png" width="1200">
 
 # FdF
 
