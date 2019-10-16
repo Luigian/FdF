@@ -9,31 +9,31 @@ One of the most interesting parts, in my opinion, is to deal with the calculatio
 ## Flowchart:
 <img src="resources/images/fdf_flowchart.png" width="1000">
 
-### Input:
+## Input:
 <img src="resources/images/fdf_input.png" width="500">
 
-### Output:
+## Output:
 <img src="resources/images/fdf_output.png" width="1200">
 
-### Key points:
+## Key points:
 
 * Trigonometry
 * Objects
 * Data structures.
 
-### Objectives:
+## Objectives:
 * Simple graphic library
 * Segment layout
 * Events
 * 3D projection to 2D
 
-### Skills:
+## Skills:
 * Graphics
 * Imperative programming
 * Algorithms & AI
 * Rigor 
 
-### Compilation:
+## Compilation:
 
 `make all` | First time compilation.
 
@@ -41,11 +41,11 @@ One of the most interesting parts, in my opinion, is to deal with the calculatio
 
 `make re` | Delete files generated from compilation and recompile.
 
-### Execution:
+## Execution:
 
 `./fdf 'source_file'` | Initialize a map in the graphic interface.
 
-### Author:
+## Author:
 
 Luis Sanchez Quiros.
 2019. Freemont, CA
