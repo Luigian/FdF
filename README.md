@@ -1,4 +1,4 @@
-![](resources/images/fillit_banner.png)
+<img src="resources/images/fdf_banner.png" width="500">
 
 # FdF
 
@@ -7,7 +7,7 @@ This project was my first approach to the basics of graphic programming. Fdf pro
 One of the most interesting parts, in my opinion, is to deal with the calculation of gradients in the lines, which helped me to better understand the way in which the color is encoded and then manipulated.
 
 ### Flowchart:
-![](resources/images/fillit_flowchart.png)
+<img src="resources/images/fdf_flowchart.png" width="500">
 
 ### Input:
 <img src="resources/images/fdf_input.png" width="500">
