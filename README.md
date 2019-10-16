@@ -6,7 +6,7 @@ This project was my first approach to the basics of graphic programming. Fdf pro
 
 One of the most interesting parts, in my opinion, is to deal with the calculation of gradients in the lines, which helped me to better understand the way in which the color is encoded and then manipulated.
 
-### Flowchart:
+## Flowchart:
 <img src="resources/images/fdf_flowchart.png" width="1000">
 
 ### Input:
