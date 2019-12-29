@@ -1,0 +1,1 @@
+cc -I ./minilibx_macos/ main.c -L ./minilibx_macos/ -lmlx -framework OpenGL -framework AppKit && ./a.out
