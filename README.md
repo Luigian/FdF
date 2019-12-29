@@ -2,7 +2,11 @@
 
 # FdF
 
-This project was my first approach to the basics of graphic programming. Fdf project is about taking a text file as a parameter and retrieving data (characters) wich correspond to the x, y and z coordenates, and also the color, of many points that represent a map. I worked with the miniLibX graphic library and learned how to open a graphic window, how to calculate the place of the points and connect them with line segments to represent different perspectives (isometric, plane, front) of the same map. Dealing with these segments involved learning how to light a single pixel in the screen and use the Bresenham's algorithm. Observing the scene from a particular viewpoint made me learn about mouse and keyboard events and how these can make a program interact with the user.
+This project was my first approach to the basics of graphic programming. Fdf project is about taking a text file as a parameter and retrieving data (characters) wich correspond to the x, y and z coordenates, and also the color, of many points that represent a map. 
+
+I worked with the miniLibX graphic library and learned how to open a graphic window, how to calculate the place of the points and connect them with line segments to represent different perspectives (isometric, plane, front) of the same map. 
+
+Dealing with these segments involved learning how to light a single pixel in the screen and use the Bresenham's algorithm. Observing the scene from a particular viewpoint made me learn about mouse and keyboard events and how these can make a program interact with the user.
 
 One of the most interesting parts, in my opinion, is to deal with the calculation of gradients in the lines, which helped me to better understand the way in which the color is encoded and then manipulated.
 
