@@ -49,7 +49,7 @@ One of the most interesting parts, in my opinion, is to deal with the calculatio
 
 `./fdf 'source_file'` | Initialize a map in the graphic interface.
 
-## Author:
+## Credits:
 
 [*Luis Sanchez*](https://www.linkedin.com/in/luis-sanchez-13bb3b189/)
 2019. Freemont, CA
