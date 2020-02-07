@@ -51,5 +51,5 @@ One of the most interesting parts, in my opinion, is to deal with the calculatio
 
 ## Author:
 
-[*Luis Julián Sánchez Quirós*](https://www.linkedin.com/in/luis-juli%C3%A1n-s%C3%A1nchez-quir%C3%B3s-13bb3b189/)
+[*Luis Sanchez*](https://www.linkedin.com/in/luis-sanchez-13bb3b189/)
 2019. Freemont, CA
